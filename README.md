@@ -15,8 +15,3 @@
     ```bash
     npm run start
     ```
-
-And you are good to go!
-
-## Live Demo:
-Check out the live demo of the WebSocket server functionality [here](your_demo_link).
